@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\BikesApplication.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\config\SpringDocOpenApiConfig.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\config\SpringTimezoneConfig.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\dto\mapper\UsuarioMapper.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\dto\UsuarioRequestDTO.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\dto\UsuarioResponseDTO.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\dto\UsuarioSenhaDTO.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\entity\Usuario.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\exception\EntityNotFoundException.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\exception\PasswordInvalidException.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\exception\UsernameUniqueViolationException.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\repository\UsuarioRepository.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\service\UsuarioService.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\web\controller\UsuarioController.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\web\exception\ApiExceptionHandler.java
+C:\Users\user\Downloads\bikes-2026.2-master\bikes\src\main\java\br\edu\ifc\bikes\web\exception\ErrorMessage.java
