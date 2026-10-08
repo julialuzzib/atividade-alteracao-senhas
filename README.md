@@ -1,1 +1,1 @@
-# atividade-altera-o-senhas
+# Atividade de alteração de senhas
